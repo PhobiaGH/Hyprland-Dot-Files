@@ -1,0 +1,11 @@
+style=/home/vulpes/.config/wofi/style.css
+
+stylesheet=/home/vulpes/.config/wofi/style.css
+
+show=drun
+
+sort_order=alphabetical
+
+allow_images=true
+
+columns=3

@@ -1,0 +1,11 @@
+#window {
+	background-color: rgba(0, 0, 0, 0.5);
+}
+
+#scroll {
+	color: #ffffff;
+}
+
+#entry:selected {
+	background-color: #008000;
+}
