@@ -80,7 +80,7 @@ button:hover {
 
 #custom-settings {
 	color: #919191;
-	background: linear-gradient(to bottom, #003366 15%, #33cc33 100%);
+	background: linear-gradient(to bottom right, #003366 15%, #33cc33 100%);
 	padding: 2px 6px;
 	margin: 4px 1px 4px 1px;
 	border: solid black 3px;
